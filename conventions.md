@@ -1,1 +1,1 @@
-Add files must start with the comment "This is fun project."
+All files must start with the comment "This is fun project."
